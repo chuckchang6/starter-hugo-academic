@@ -31,8 +31,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Guangzhou Academy of Fine Arts
+    url: https://www.gzarts.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
