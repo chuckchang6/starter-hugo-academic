@@ -1,7 +1,7 @@
 ---
 title: Chang Liu 刘畅
 role: Professor of Artificial Intelligence
-avatar_filename: 2021030701103_刘畅.jpg
+avatar_filename: 未标题-1_画板-1.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
