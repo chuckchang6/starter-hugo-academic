@@ -1,7 +1,7 @@
 ---
 title: Chang Liu 刘畅
 role: Professor of Artificial Intelligence
-avatar_filename: chuck.png
+avatar_filename: blob:https://chuckchang.netlify.app/8e8552f0-9284-47ac-8ba1-e076320794fd
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
