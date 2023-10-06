@@ -1,6 +1,6 @@
 ---
 title: Chang Liu 刘畅
-role: Professor of Artificial Intelligence
+role: Master of Art
 avatar_filename: avatar_hu8a89f3c44508dbdf9485f8a6ecc9ab77_644372_270x270_fill_lanczos_center_3.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -12,6 +12,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+    display:
+      header: false
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
