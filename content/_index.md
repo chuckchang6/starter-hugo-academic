@@ -1,7 +1,5 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: My page
 type: landing
 
 sections:
@@ -14,6 +12,7 @@ sections:
       text: |>
         👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
         {style="font-size: 1.2rem; color: #FFB76B;} 
+---
     design:
       background:
         gradient_end: '#1976d2'
